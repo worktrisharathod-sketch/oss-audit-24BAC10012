@@ -1,5 +1,5 @@
 # OSS Audit — Linux Kernel
-## Open Source Software Capstone Project
+## Open Source Software Project
 
 | Field | Details |
 |---|---|
