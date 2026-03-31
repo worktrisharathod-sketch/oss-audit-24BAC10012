@@ -14,7 +14,7 @@
 
 ## About This Project
 
-This repository contains the shell scripts for the Open Source Audit capstone project. The project conducts a structured audit of the **Linux Kernel** — examining its origin story, license philosophy, Linux footprint, FOSS ecosystem, and comparison with proprietary alternatives.
+This repository contains the shell scripts for the Open Source Audit project. The project conducts a structured audit of the **Linux Kernel** — examining its origin story, license philosophy, Linux footprint, FOSS ecosystem, and comparison with proprietary alternatives.
 
 The Linux Kernel was chosen because it is the single most impactful open-source project in computing history. Written by Linus Torvalds in 1991 as a personal hobby project, it now powers 96% of the world's top servers, all 500 of the world's fastest supercomputers, and over 3 billion Android devices worldwide.
 
